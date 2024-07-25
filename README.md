@@ -1,6 +1,6 @@
 <img align="right" width="360px" height="410px" src="./.github/assets/project-logo-vertical.png">
 
-# TypeGen Ecom AI </br>  [![GitHub Actions Workflow Status][check-workflow-badge]][check-workflow-badge-link] [![GitHub License][github-license-badge]][github-license-badge-link] [![GitHub contributors][github-contributors-badge]][github-contributors-badge-link]
+# TypeGen Ecom AI </br>  
 
 TypeGen Ecom AI is an open-source project aimed at developing an enterprise-level e-commerce platform with a built-in AI assistant. Leveraging Next.js, this project seeks to enhance customer service and streamline the shopping experience through advanced AI integration. 🌍
 
